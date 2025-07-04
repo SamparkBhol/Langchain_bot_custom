@@ -1,6 +1,6 @@
 # LangChain Chatbot
 
-This is a full-stack chatbot application built with LangChain, FastAPI, and React.
+This is a full-stack chatbot application built with LangChain, FastAPI, and React.This is abot prepared for a bigger project however , this repo can be forked and used independently as a chatbot for something provided ocntext , API keys and setting it up proeprly
 
 ## Setup and Running
 
